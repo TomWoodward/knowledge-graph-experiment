@@ -1,0 +1,61 @@
+id,title,index
+7cbc90c7-60c8-4211-bffe-b77aadc95509,1.1 Introduction to Whole Numbers,0
+8069044b-6fb1-49bf-b03a-64988f9b1ddd,1.2 Add Whole Numbers,1
+b7b437ef-73c1-446d-a42c-7a7ebe933114,1.3 Subtract Whole Numbers,2
+9b248006-6668-446c-bcc4-bd1a9730b4ad,1.4 Multiply Whole Numbers,3
+f7446efa-8302-4ef6-9e5a-bdc05acb3613,1.5 Divide Whole Numbers,4
+c99ce701-d3cb-4b3d-9864-8a4861034a81,2.1 Use the Language of Algebra,5
+f8ffe655-ee35-4be9-9b1b-ae94f43c84fa,"2.2 Evaluate, Simplify, and Translate Expressions",6
+f0e638b1-8ef3-4895-b033-18aa6d0d3564,2.3 Solving Equations Using the Subtraction and Addition Properties of Equality,7
+f8af279f-9990-4610-b634-0ba844760dea,2.4 Find Multiples and Factors,8
+f844b6a5-7d09-4876-b9dc-aa70a9d3a4af,2.5 Prime Factorization and the Least Common Multiple,9
+ff579e3c-dd25-47d2-9e73-edfdee3ace70,3.1 Introduction to Integers,10
+8a49b727-d592-4930-8e54-9b30c1eba914,3.2 Add Integers,11
+834642be-f141-48c4-aa97-01b61193ccd0,3.3 Subtract Integers,12
+25c4a027-b875-440c-bd4d-5151ed2001bd,3.4 Multiply and Divide Integers,13
+4208f187-08ad-402a-b95f-0a9a46582e52,3.5 Solve Equations Using Integers; The Division Property of Equality,14
+db65f95b-f29e-48d5-9a56-2ae1e16096b3,4.1 Visualize Fractions,15
+c4bc8665-2053-46a2-b4c6-da5277d1f63e,4.2 Multiply and Divide Fractions,16
+f55bcfae-239c-4e6b-8ada-676f4f2be135,4.3 Multiply and Divide Mixed Numbers and Complex Fractions,17
+0cc49fc3-6864-45e9-b662-aa664b962380,4.4 Add and Subtract Fractions with Common Denominators,18
+585a56d9-e90a-42c5-a00b-8d275fddd81a,4.5 Add and Subtract Fractions with Different Denominators,19
+a5956e79-3c5d-45b3-a564-4de0a2ded1ae,4.6 Add and Subtract Mixed Numbers,20
+4a8e9b99-d40c-43c4-a97b-5c3be9cd8750,4.7 Solve Equations with Fractions,21
+b6e1863d-155b-4580-9d11-bb0d46db2d09,5.1 Decimals,22
+47846d7d-94ab-47d7-965d-e95f964f2c1c,5.2 Decimal Operations,23
+69f66012-2d0d-4978-87c5-e6a4b16a8ec5,5.3 Decimals and Fractions,24
+9fe35e21-25d0-4ce5-9906-fb7f3d5a05b4,5.4 Solve Equations with Decimals,25
+21321804-a5f3-4577-b645-2ca735a977e6,5.5 Averages and Probability,26
+c5568dd1-af4e-473d-a0ff-4b7e61e2db69,5.6 Ratios and Rate,27
+36b90a09-411d-42af-8c04-3eaed7cb80ad,5.7 Simplify and Use Square Roots,28
+92ed48c0-32af-47e2-8a49-646d9cef3d43,6.1 Understand Percent,29
+933d1696-1e72-4093-a602-d7247a7ccd4b,6.2 Solve General Applications of Percent,30
+ef33e13e-d5e8-4fe6-b40e-9caa62308c97,"6.3 Solve Sales Tax, Commission, and Discount Applications",31
+4f3eed88-8d09-4c87-94c9-0bb7f4914ecb,6.4 Solve Simple Interest Applications,32
+202c212c-f1f5-467e-b7e7-cf6fde5172da,6.5 Solve Proportions and their Applications,33
+7ee5301b-3610-47e1-adfa-4ce2ca107c65,7.1 Rational and Irrational Numbers,34
+60473ca2-c628-4e39-ac2e-1383385ffd82,7.2 Commutative and Associative Properties,35
+8f5f6a48-fd5c-4841-aeeb-5becb3a76af3,7.3 Distributive Property,36
+a3623f10-7b01-4b05-9e07-7c2a2a4acdab,"7.4 Properties of Identity, Inverses, and Zero",37
+b02cd091-9e2c-47b1-bad6-680868b4ee8e,7.5 Systems of Measurement,38
+5a8cc4b8-4470-4e4b-b761-1929108174f2,8.1 Solve Equations Using the Subtraction and Addition Properties of Equality,39
+ca5d73eb-f188-4ddd-80f5-0d103e6df72a,8.2 Solve Equations Using the Division and Multiplication Properties of Equality,40
+4a268d92-837b-49cb-a6f2-0443ec1e2fc1,8.3 Solve Equations with Variables and Constants on Both Sides,41
+d51d46b8-c1fb-4ae3-a369-ea31209c9ca3,8.4 Solve Equations with Fraction or Decimal Coefficients,42
+940a8a74-fec1-49bd-ad9a-29e6b18b1dbd,9.1 Use a Problem Solving Strategy,43
+6470a04b-f9f6-4d07-82ab-2b5302c984f4,9.2 Solve Money Applications,44
+4c0177e5-a020-44df-8147-f6599ea62f38,"9.3 Use Properties of Angles, Triangles, and the Pythagorean Theorem",45
+f155553e-17fe-4c7d-9a66-ae70916e8320,"9.4 Use Properties of Rectangles, Triangles, and Trapezoids",46
+16ede361-4729-4071-a37c-c5e5c28ed352,9.5 Solve Geometry Applications: Circles and Irregular Figures,47
+39537675-6d2a-48bb-9917-7a43d2c116fc,9.6 Solve Geometry Applications: Volume and Surface Area,48
+fdecc523-30c3-46a7-a168-c24302d65420,9.7 Solve a Formula for a Specific Variable,49
+7ebb5485-ff7f-4df5-8028-12ab4eabdb82,10.1 Add and Subtract Polynomials,50
+1ed2d0c6-4b2c-496f-8e97-236eab9dafe0,10.2 Use Multiplication Properties of Exponents,51
+6eddcee7-b953-46db-92b4-db3be81acaed,10.3 Multiply Polynomials,52
+f1ad5ff7-3a6e-415c-83c7-abf85ee94df7,10.4 Divide Monomials,53
+d741bac6-bd7f-4e82-9df0-bd1e094380b9,10.5 Integer Exponents and Scientific Notation,54
+29daf534-a9bb-4e3e-90d2-065c7cdf9027,10.6 Introduction to Factoring Polynomials,55
+85af0e19-a6a3-4e81-829c-b318c58f5d05,11.1 Use the Rectangular Coordinate System,56
+20c6b413-f48a-4d3a-8adc-aef6f6e762d7,11.2 Graphing Linear Equations,57
+1a6e2f8c-0399-4192-91b9-bcb8064aeee2,11.3 Graphing with Intercepts,58
+ea72caf9-e266-4a3a-870d-1a97e08b2881,11.4 Understand Slope of a Line,59

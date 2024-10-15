@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "csv-stringify": "^6.5.1",
+    "lodash": "^4.17.21",
+    "neo4j-driver": "^5.25.0",
+    "ollama": "^0.5.9",
+    "string-strip-html": "^13.4.8"
+  }
+}
