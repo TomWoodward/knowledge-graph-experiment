@@ -13,8 +13,8 @@ for (const [i, page] of sectionPages.entries()) {
     { database: 'neo4j' }
   );
 
-  console.log(`##${page.title}
-###Prerequisites`);
+  console.log(`## ${page.title}
+### Prerequisites`);
 
   if (records.length < 1) {
     console.log('none');
